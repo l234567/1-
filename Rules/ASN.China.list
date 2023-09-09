@@ -11,7 +11,6 @@ host-suffix, akadns.net, Domestic
 # host-suffix, akamaistream.net
 host-suffix, akamaized.net, Domestic
 # > Alibaba
-user-agent, %E4%BC%98%E9%85%B7*, Domestic
 host-suffix, alibaba.com, Domestic
 host-suffix, alicdn.com, Domestic
 host-suffix, alikunlun.com, Domestic
@@ -59,7 +58,6 @@ host-suffix, 21cn.com, Domestic
 # > DiDi
 host-suffix, didialift.com, Domestic
 host-suffix, didiglobal.com, Domestic
-host-suffix, udache.com, Domestic
 # > 蛋蛋赞
 host-suffix, 343480.com, Domestic
 host-suffix, baduziyuan.com, Domestic
@@ -115,7 +113,6 @@ host-suffix, windowsupdate.com, Domestic
 host-suffix, sharepoint.com, Domestic
 # > NetEase
 user-agent, NeteaseMusic*, Domestic
-user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, Domestic
 host-suffix, 163.com, Domestic
 host-suffix, 126.net, Domestic
 host-suffix, 127.net, Domestic
@@ -165,7 +162,6 @@ host-suffix, byteoversea.com, Domestic
 host-suffix, faceu.mobi, Domestic
 host-suffix, ibytedtos.com, Domestic
 # > YYeTs
-user-agent, YYeTs*, Domestic
 host-suffix, zimuzu.io, Domestic
 host-suffix, zimuzu.tv, Domestic
 host-suffix, zmz2019.com, Domestic
@@ -210,7 +206,6 @@ host-suffix, morethan.tv, Domestic
 host-suffix, nanyangpt.com, Domestic
 host-suffix, ncore.cc, Domestic
 host-suffix, open.cd, Domestic
-host-suffix, ourbits.club, Domestic
 host-suffix, passthepopcorn.me, Domestic
 host-suffix, privatehd.to, Domestic
 host-suffix, pterclub.com, Domestic
@@ -372,7 +367,6 @@ host-suffix, teamviewer.com, Domestic
 host-suffix, tianyancha.com, Domestic
 host-suffix, tophub.today, Domestic
 host-suffix, udacity.com, Domestic
-host-suffix, uning.com, Domestic
 host-suffix, vmware.com, Domestic
 host-suffix, weather.com, Domestic
 host-suffix, weico.cc, Domestic
