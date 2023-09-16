@@ -658,10 +658,7 @@ DOMAIN-SUFFIX,da.mgtv.com,REJECT
 DOMAIN-SUFFIX,da.hunantv.com,REJECT
 DOMAIN-SUFFIX,log.hunantv.com,REJECT
 DOMAIN-SUFFIX,v2.hunantv.com,REJECT
-# > Hupu
-DOMAIN,adx.hupu.com,REJECT
-DOMAIN,adx-api.hupu.com,REJECT
-DOMAIN,goblin.hupu.com,REJECT
+
 # > happycast
 DOMAIN,ad.hpplay.cn,REJECT
 DOMAIN,adc.hpplay.cn,REJECT
@@ -763,10 +760,6 @@ DOMAIN,ifengad.3g.ifeng.com,REJECT
 # > QingTing
 DOMAIN,ad.qingting.fm,REJECT
 DOMAIN,adlaunch.qingting.fm,REJECT
-DOMAIN,ad-cdn.qingting.fm,REJECT
-# > OPPO
-DOMAIN-SUFFIX,ads.oppomobile.com,REJECT
-DOMAIN,adsfs.oppomobile.com,REJECT
 
 # (S)
 # > Sina
@@ -833,16 +826,7 @@ DOMAIN,etl.xlmc.sandai.net,REJECT
 DOMAIN,adv-adlog.variflight.com,REJECT
 DOMAIN,adv-ads.variflight.com,REJECT
 DOMAIN,app-ad.variflight.com,REJECT
-# > vivo
-DOMAIN,adlog.vivo.com.cn,REJECT
-DOMAIN,adreq.vivo.com.cn,REJECT
-DOMAIN,ads-marketing-vivofs.vivo.com.cn,REJECT
-DOMAIN,adsdk.vivo.com.cn,REJECT
-DOMAIN,adsstatic.vivo.com.cn,REJECT
-DOMAIN,adxlog.vivo.com.cn,REJECT
-DOMAIN,vcardsdkservice.vivo.com.cn,REJECT
-DOMAIN-KEYWORD,stsdk.vivo.com.cn,REJECT
-DOMAIN-KEYWORD,stsdk.vivoglobal.com,REJECT
+
 # > Viber
 DOMAIN,ads.viber.com,REJECT
 DOMAIN,ads-d.viber.com,REJECT
