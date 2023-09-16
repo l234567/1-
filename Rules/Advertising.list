@@ -873,4 +873,6 @@ DOMAIN,apppv.zol.com.cn,REJECT
 DOMAIN,pvnapp.zol.com.cn,REJECT
 # > Tencent
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
-
+# > 58
+DOMAIN,track.58.com,REJECT
+DOMAIN,tracklog.58.com,REJECT
