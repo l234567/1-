@@ -871,3 +871,6 @@ IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT
 # > ZOL
 DOMAIN,apppv.zol.com.cn,REJECT
 DOMAIN,pvnapp.zol.com.cn,REJECT
+# > Tencent
+DOMAIN,safebrowsing.urlsec.qq.com,REJECT
+
