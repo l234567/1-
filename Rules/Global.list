@@ -238,9 +238,6 @@ DOMAIN-SUFFIX,widevine.com,PROXY
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
 DOMAIN-SUFFIX,zynamics.com,PROXY
 DOMAIN-KEYWORD,.blogspot.,PROXY
-DOMAIN-SUFFIX,goog,PROXY
-# > Apple
-DOMAIN,testflight.apple.com,PROXY
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com,PROXY
 DOMAIN-SUFFIX,tumblr.com,PROXY
@@ -364,23 +361,6 @@ DOMAIN-SUFFIX,reutersmedia.net,PROXY
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 # DOMAIN,store.steampowered.com,PROXY
-# > Telegram
-DOMAIN-SUFFIX,legra.ph,PROXY
-DOMAIN-SUFFIX,t.me,PROXY
-DOMAIN-SUFFIX,tdesktop.com,PROXY
-DOMAIN-SUFFIX,telegra.ph,PROXY
-DOMAIN-SUFFIX,telegram.me,PROXY
-DOMAIN-SUFFIX,telegram.org,PROXY
-DOMAIN-SUFFIX,telesco.pe,PROXY
-IP-CIDR,91.108.4.0/22,PROXY
-IP-CIDR,91.108.8.0/22,PROXY
-IP-CIDR,91.108.12.0/22,PROXY
-IP-CIDR,91.108.16.0/22,PROXY
-IP-CIDR,91.108.20.0/22,PROXY
-IP-CIDR,91.108.56.0/22,PROXY
-IP-CIDR,91.105.192.0/23,PROXY
-IP-CIDR,149.154.160.0/20,PROXY
-IP-CIDR,185.76.151.0/24,PROXY
 # > The Economist
 DOMAIN-SUFFIX,economist.com,PROXY
 DOMAIN-SUFFIX,static-economist.com,PROXY
@@ -424,7 +404,6 @@ DOMAIN,search.yahoo.co.jp,PROXY
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk,PROXY
 DOMAIN,disk.yandex.com,PROXY
-
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,aicoin.com,PROXY
 DOMAIN-SUFFIX,aimoon.com,PROXY
@@ -437,14 +416,6 @@ DOMAIN,wego.here.com,PROXY
 # > Alphabet
 DOMAIN-SUFFIX,go.dev,PROXY
 DOMAIN-SUFFIX,golang.org,PROXY
-# ---(Apple)---
-DOMAIN-SUFFIX,appsto.re,PROXY
-DOMAIN-SUFFIX,smoot.apple.com,PROXY
-DOMAIN,amp-api.podcasts.apple.com,PROXY
-DOMAIN,beta.music.apple.com,PROXY
-DOMAIN,books.itunes.apple.com,PROXY
-DOMAIN,lookup-api.apple.com,PROXY
-DOMAIN,radio.itunes.apple.com,PROXY
 # > Web Preview
 DOMAIN,apps.apple.com,PROXY
 DOMAIN,books.apple.com,PROXY
