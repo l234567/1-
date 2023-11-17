@@ -1,0 +1,236 @@
+﻿# 2023-11-15 09:10
+
+# ======= A ======= #
+# 阿里巴巴
+DOMAIN,ossgw.alicdn.com,Guard
+DOMAIN,ems.youku.com,Guard
+DOMAIN,hudong.alicdn.com,Guard
+DOMAIN-SUFFIX,ut.taobao.com,Guard
+# 阿里云盘
+IP-CIDR,203.107.1.1/24,Guard
+# 爱奇艺
+DOMAIN,api.iqiyi.com,Guard
+# Apple
+DOMAIN,advertising.apple.com,Guard
+DOMAIN,api-adservices.apple.com,Guard
+DOMAIN,apple.comscoreresearch.com,Guard
+DOMAIN,banners.itunes.apple.com,Guard
+DOMAIN,iad.apple.com,Guard
+DOMAIN,iadcontent.apple.com,Guard
+DOMAIN,iadctest.qwapi.com,Guard
+DOMAIN,iadmoo.apple.com,Guard
+DOMAIN,iadworkbench.apple.com,Guard
+DOMAIN,launch.apple.com,Guard
+DOMAIN,qwapi.apple.com,Guard
+DOMAIN-SUFFIX,advp.apple.com,Guard
+DOMAIN-SUFFIX,iad-apple.com,Guard
+DOMAIN-SUFFIX,iadsdk.apple.com,Guard
+# 安全浏览限制解除
+DOMAIN,lookup.api.bsb.baidu.com,Guard
+DOMAIN-SUFFIX,u3.ucweb.com,Guard
+DOMAIN-KEYWORD,safebrowsing.,Guard
+
+# ======= B ======= #
+# 百度
+DOMAIN,mobads.baidu.com,Guard
+DOMAIN-SUFFIX,pos.baidu.com,Guard
+# 百度地图
+DOMAIN,afd.baidu.com,Guard
+DOMAIN,afdconf.baidu.com,Guard
+DOMAIN,httpdns.baidubce.com,Guard
+DOMAIN,lc.map.baidu.com,Guard
+# 百度贴吧
+IP-CIDR,180.76.76.200/32,Guard
+# 哔哩哔哩
+DOMAIN,mall.bilibili.com,Guard
+DOMAIN,passport.bilibili.com,Guard
+
+# ======= C ======= #
+# 彩云天气
+DOMAIN,ad.cyapi.cn,Guard
+# 昌原云充
+DOMAIN,m.adyounger.com,Guard
+# ChatGPT
+DOMAIN,o33249.ingest.sentry.io,Guard
+# Clue 智库
+DOMAIN,api.helloclue.com,Guard
+DOMAIN,brahe.apptimize.com,Guard
+DOMAIN,collector.clue.run,Guard
+DOMAIN,images.ctfassets.net,Guard
+DOMAIN,mapi.apptimize.com,Guard
+DOMAIN,md-i-s.apptimize.com,Guard
+
+# ======= F ======= #
+# Foreca & Google
+DOMAIN,pagead2.googlesyndication.com,Guard
+DOMAIN,www.googleadservices.com,Guard
+DOMAIN-SUFFIX,adservice.google.com,Guard
+DOMAIN-KEYWORD,ads.g.doubleclick,Guard
+
+# ======= G ======= #
+# 高德地图
+DOMAIN,amap-aos-info-nogw.amap.com,Guard
+DOMAIN,awaken.amap.com,Guard
+DOMAIN,free-aos-cdn-image.amap.com,Guard
+# 工商银行 开屏广告
+DOMAIN,pageviewp.icbc.com.cn,Guard
+# 广告联盟
+DOMAIN,i.snssdk.com,Guard
+DOMAIN,is.snssdk.com,Guard
+DOMAIN,mi.gdt.qq.com,Guard
+DOMAIN,open.e.kuaishou.com,Guard
+DOMAIN-SUFFIX, miaozhen.com,Guard
+DOMAIN-KEYWORD,pangolin-sdk-toutiao,Guard
+DOMAIN-KEYWORD,pangolin.snssdk.com,Guard
+DOMAIN-KEYWORD,pglstatp-toutiao,Guard
+DOMAIN-KEYWORD,video-cn.snssdk.com,Guard
+
+# ======= H ======= #
+# 海尔智家
+DOMAIN-SUFFIX,ehaier.com,Guard
+
+# ======= J ======= #
+# 建设银行
+DOMAIN,adv.ccb.com,Guard
+DOMAIN,imageadv.ccb.com,Guard
+# 京东
+DOMAIN,dns.jd.com,Guard
+IP-CIDR,101.124.19.122/32,Guard
+IP-CIDR6,2402:db40:5100:1011::5/128,Guard
+
+# ======= K ======= #
+# 酷我音乐
+DOMAIN,ad.tencentmusic.com,Guard
+DOMAIN,g.koowo.com,Guard
+DOMAIN,mobilead.kuwo.cn,Guard
+DOMAIN,rich.kuwo.cn,Guard
+DOMAIN,tmead.y.qq.com,Guard
+DOMAIN,tmeadcomm.y.qq.com,Guard
+
+# ======= L ======= #
+# 蓝奏云
+DOMAIN,statics.woozooo.com,Guard
+
+# ======= M ======= #
+# 芒果TV
+DOMAIN,credits.bz.mgtv.com,Guard
+DOMAIN,credits2.bz.mgtv.com,Guard
+DOMAIN,credits3.bz.mgtv.com,Guard
+DOMAIN,dflow.bz.mgtv.com,Guard
+DOMAIN,encounter.bz.mgtv.com,Guard
+DOMAIN,floor.bz.mgtv.com,Guard
+DOMAIN,layer.bz.mgtv.com,Guard
+DOMAIN,mob.bz.mgtv.com,Guard
+DOMAIN,rc-topic-api.bz.mgtv.com,Guard
+DOMAIN,rprain.bz.mgtv.com,Guard
+DOMAIN,rprain.log.mgtv.com,Guard
+DOMAIN,vip.bz.mgtv.com,Guard
+DOMAIN-SUFFIX,da.mgtv.com,Guard
+# 美团
+DOMAIN,al-log.d.meituan.net,Guard
+DOMAIN,babel-statistics-android.d.meituan.net,Guard
+DOMAIN,maplocatesdksnapshot.d.meituan.net,Guard
+DOMAIN,metrics-picture.d.meituan.net,Guard
+DOMAIN,route-stats.d.meituan.net,Guard
+# 美颜相机
+DOMAIN,aaid.uyunad.com,Guard
+DOMAIN,adui.tg.meitu.com,Guard
+
+# ======= O ======= #
+# Outlook
+DOMAIN,acdn.adnxs.com,Guard
+DOMAIN,mediation.adnxs.com,Guard
+DOMAIN,sin3-ib.adnxs.com,Guard
+
+# ======= S ======= #
+# 什么值得买
+DOMAIN,api.zuihuimai.com,Guard
+# 数字联盟
+DOMAIN-SUFFIX,shuzilm.cn,Guard
+
+# ======= T ======= #
+# 腾讯
+DOMAIN,adsmind.gdtimg.com,Guard
+DOMAIN,btrace.qq.com,Guard
+DOMAIN,btrace.video.qq.com,Guard
+DOMAIN,info4.video.qq.com,Guard
+DOMAIN,info6.video.qq.com,Guard
+DOMAIN,ios.video.mpush.qq.com,Guard
+DOMAIN,mtrace.qq.com,Guard
+DOMAIN,otheve.beacon.qq.com,Guard
+DOMAIN,p.l.qq.com,Guard
+DOMAIN,pgdt.gtimg.cn,Guard
+DOMAIN,rpt.gdt.qq.com,Guard
+DOMAIN,tpns.qq.com,Guard
+DOMAIN,tytx.m.cn.miaozhen.com,Guard
+DOMAIN,vv6.video.qq.com,Guard
+DOMAIN-SUFFIX,trace.qq.com,Guard
+IP-CIDR,47.110.187.87/32,Guard
+# 腾讯QQ
+DOMAIN,ipv4.gdt.qq.com,Guard
+
+# ======= W ======= #
+# 网易云音乐
+DOMAIN,gdt.qq.com,Guard
+DOMAIN,httpdns.music.163.com,Guard
+DOMAIN,httpdns.n.netease.com,Guard
+DOMAIN,iadmat.nosdn.127.net,Guard
+DOMAIN,iadmatapk.nosdn.127.net,Guard
+DOMAIN,iadmusicmat.music.126.net,Guard
+DOMAIN,iadmusicmatvideo.music.126.net,Guard
+DOMAIN-SUFFIX,163jiasu.com,Guard
+# 微博 开屏广告
+DOMAIN-SUFFIX,biz.weibo.com,Guard
+
+# ======= X ======= #
+# 小米
+DOMAIN,sdkconfig.ad.xiaomi.com,Guard
+# 迅雷 解除版权限制
+;DOMAIN,hub5btmain.v6.shub.sandai.net,Guard
+;DOMAIN,hub5emu.v6.shub.sandai.net,Guard
+;DOMAIN,hub5idx.v6.shub.sandai.net,Guard
+
+# ======= Y ======= #
+# 优酷 & 菜鸟
+;DOMAIN,acs.youku.com,Guard
+DOMAIN,acs4baichuan.m.taobao.com,Guard
+DOMAIN,adsmind.ugdtimg.com,Guard
+DOMAIN,amdc.m.youku.com,Guard
+DOMAIN,api.sm.cn,Guard
+DOMAIN,apiv4-iyes.youku.com,Guard
+DOMAIN,baichuan-sdk.alicdn.com,Guard
+DOMAIN,httpdns.alicdn.com,Guard
+DOMAIN,huichuan-mc.sm.cn,Guard
+DOMAIN,huichuan.sm.cn,Guard
+DOMAIN,iyes.youku.com,Guard
+DOMAIN,m-vali.cp31.ott.cibntv.net,Guard
+DOMAIN,mc.atm.youku.com,Guard
+DOMAIN,nbsdk-baichuan.alicdn.com,Guard
+DOMAIN,pre-acs.youku.com,Guard
+DOMAIN,vali-g1.cp31.ott.cibntv.net,Guard
+DOMAIN,vali-ugc.cp31.ott.cibntv.net,Guard
+DOMAIN,yk-ssp.ad.youku.com,Guard
+DOMAIN,ykad-data.youku.com,Guard
+DOMAIN,youku-acs.m.taobao.com,Guard
+# 云闪付 开屏广告
+DOMAIN,ads.95516.com,Guard
+DOMAIN,switch.cup.com.cn,Guard
+DOMAIN,tysdk.95516.com,Guard
+# Yandex
+DOMAIN,yandexmetrica.com,Guard
+
+# ======= Z ======= #
+# 知乎
+DOMAIN,appcloud.zhihu.com,Guard
+DOMAIN,appcloud2.in.zhihu.com,Guard
+DOMAIN,crash2.zhihu.com,Guard
+DOMAIN,mqtt.zhihu.com,Guard
+DOMAIN,sugar.zhihu.com,Guard
+DOMAIN,zxid-m.mobileservice.cn,Guard
+IP-CIDR,103.41.167.237/32,Guard
+IP-CIDR,118.89.204.198/32,Guard
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,Guard
+# 字节跳动
+DOMAIN,ad.zijieapi.com,Guard
+DOMAIN-KEYWORD,asiad.byteactivity,Guard
+DOMAIN-KEYWORD,-ad-sign.byteimg.com,Guard
