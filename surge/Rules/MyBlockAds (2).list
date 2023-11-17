@@ -21,7 +21,7 @@ DOMAIN,launch.apple.com,Guard
 DOMAIN,qwapi.apple.com,Guard
 DOMAIN-SUFFIX,advp.apple.com,Guard
 DOMAIN-SUFFIX,iad-apple.com,Guard
-HOST-SUFFIX,iadsdk.apple.com,Guard
+DOMAIN-SUFFIX,iadsdk.apple.com,Guard
 # 安全浏览限制解除
 DOMAIN,lookup.api.bsb.baidu.com,Guard
 DOMAIN-SUFFIX,u3.ucweb.com,Guard
