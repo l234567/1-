@@ -186,13 +186,13 @@ DOMAIN-SUFFIX,biz.weibo.com
 # 小米
 DOMAIN,sdkconfig.ad.xiaomi.com
 # 迅雷 解除版权限制
-;DOMAIN,hub5btmain.v6.shub.sandai.net
-;DOMAIN,hub5emu.v6.shub.sandai.net
-;DOMAIN,hub5idx.v6.shub.sandai.net
+#DOMAIN,hub5btmain.v6.shub.sandai.net
+#DOMAIN,hub5emu.v6.shub.sandai.net
+#DOMAIN,hub5idx.v6.shub.sandai.net
 
 # ======= Y ======= #
 # 优酷 & 菜鸟
-;DOMAIN,acs.youku.com
+#DOMAIN,acs.youku.com
 DOMAIN,acs4baichuan.m.taobao.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,amdc.m.youku.com
