@@ -2,7 +2,7 @@
 DOMAIN,ossgw.alicdn.com,Guard
 DOMAIN,ems.youku.com,Guard
 DOMAIN,hudong.alicdn.com,Guard
-HOST-SUFFIX, ut.taobao.com,Guard
+DOMAIN-SUFFIX,ut.taobao.com,Guard
 # 阿里云盘
 IP-CIDR,203.107.1.1/24,Guard
 # 爱奇艺
