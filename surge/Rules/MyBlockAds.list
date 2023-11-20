@@ -96,6 +96,8 @@ DOMAIN,tmeadcomm.y.qq.com
 # ======= L ======= #
 # 蓝奏云
 DOMAIN,statics.woozooo.com
+#联通
+DOMAIN-SUFFIX,m1.ad.10010.com
 
 # ======= M ======= #
 # 芒果TV
