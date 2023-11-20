@@ -170,7 +170,6 @@ DOMAIN-SUFFIX,trace.qq.com
 IP-CIDR,47.110.187.87/32
 # 腾讯QQ
 DOMAIN,ipv4.gdt.qq.com
-DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,qq-web-other.cdn-go.cn
 DOMAIN-SUFFIX,cmshow.gtimg.cn
 DOMAIN-SUFFIX,cdnimg.3g.qq.com
