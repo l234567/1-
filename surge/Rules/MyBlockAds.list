@@ -80,6 +80,8 @@ DOMAIN,is.snssdk.com
 DOMAIN,mi.gdt.qq.com
 DOMAIN-SUFFIX,open.e.kuaishou.com
 DOMAIN-SUFFIX, miaozhen.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao
+DOMAIN-SUFFIX,pangolin-toutiao
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,pglstatp-toutiao
