@@ -74,6 +74,8 @@ DOMAIN,awaken.amap.com
 DOMAIN,free-aos-cdn-image.amap.com
 # 工商银行 开屏广告
 DOMAIN,pageviewp.icbc.com.cn
+#招商银行
+DOMAIN,mbads.paas.cmbchina.com
 # 广告联盟
 DOMAIN,i.snssdk.com
 DOMAIN,is.snssdk.com
@@ -176,6 +178,7 @@ DOMAIN-SUFFIX,qq-web-other.cdn-go.cn
 DOMAIN-SUFFIX,cmshow.gtimg.cn
 DOMAIN-SUFFIX,cdnimg.3g.qq.com
 DOMAIN-SUFFIX,sqdd.myapp.com
+DOMAIN-SUFFIX,mqqstr.beacon.qq.com
 # ======= W ======= #
 # 网易云音乐
 DOMAIN,gdt.qq.com
@@ -188,7 +191,9 @@ DOMAIN,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,163jiasu.com
 # 微博 开屏广告
 DOMAIN-SUFFIX,biz.weibo.com
-
+#虎牙
+DOMAIN-SUFFIX,crash-dau.huya.com
+DOMAIN-SUFFIX,cdn.wup.huya.com
 # ======= X ======= #
 # 小米
 DOMAIN,sdkconfig.ad.xiaomi.com
