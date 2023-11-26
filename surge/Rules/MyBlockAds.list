@@ -50,8 +50,6 @@ DOMAIN,passport.bilibili.com
 DOMAIN,ad.cyapi.cn
 # 昌原云充
 DOMAIN,m.adyounger.com
-# ChatGPT
-DOMAIN,o33249.ingest.sentry.io
 # Clue 智库
 DOMAIN,api.helloclue.com
 DOMAIN,brahe.apptimize.com
@@ -77,11 +75,15 @@ DOMAIN,pageviewp.icbc.com.cn
 #招商银行
 DOMAIN,mbads.paas.cmbchina.com
 # 广告联盟
+DOMAIN,ad.zijieapi.com
 DOMAIN,i.snssdk.com
 DOMAIN,is.snssdk.com
 DOMAIN,mi.gdt.qq.com
 DOMAIN-SUFFIX,open.e.kuaishou.com
 DOMAIN-SUFFIX, miaozhen.com
+DOMAIN-KEYWORD,-ad-sign.byteimg.com
+DOMAIN-KEYWORD,-tos.pstatp.com
+DOMAIN-KEYWORD,asiad.byteactivity
 DOMAIN-SUFFIX,pangolin-sdk-toutiao
 DOMAIN-SUFFIX,pangolin-toutiao
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
@@ -96,7 +98,6 @@ DOMAIN-SUFFIX,ehaier.com
 # ======= J ======= #
 # 建设银行
 DOMAIN,adv.ccb.com
-DOMAIN,imageadv.ccb.com
 # 京东
 DOMAIN,dns.jd.com
 IP-CIDR,101.124.19.122/32
@@ -157,20 +158,18 @@ DOMAIN-SUFFIX,shuzilm.cn
 # ======= T ======= #
 # 腾讯
 DOMAIN,adsmind.gdtimg.com
-DOMAIN,btrace.qq.com
-DOMAIN,btrace.video.qq.com
 DOMAIN,info4.video.qq.com
 DOMAIN,info6.video.qq.com
 DOMAIN,ios.video.mpush.qq.com
-DOMAIN,mtrace.qq.com
 DOMAIN,otheve.beacon.qq.com
-DOMAIN,p.l.qq.com
 DOMAIN,pgdt.gtimg.cn
-DOMAIN,rpt.gdt.qq.com
 DOMAIN,tpns.qq.com
-DOMAIN,tytx.m.cn.miaozhen.com
+#DOMAIN,vv.video.qq.com
 DOMAIN,vv6.video.qq.com
-DOMAIN-SUFFIX,trace.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,l.qq.com
+DOMAIN-KEYWORD,trace.qq.com
+DOMAIN-KEYWORD,trace.video.qq.com
 IP-CIDR,47.110.187.87/32
 # 腾讯QQ
 DOMAIN-SUFFIX,ipv4.gdt.qq.com
@@ -181,7 +180,6 @@ DOMAIN-SUFFIX,sqdd.myapp.com
 DOMAIN-SUFFIX,mqqstr.beacon.qq.com
 # ======= W ======= #
 # 网易云音乐
-DOMAIN,gdt.qq.com
 DOMAIN,httpdns.music.163.com
 DOMAIN,httpdns.n.netease.com
 DOMAIN,iadmat.nosdn.127.net
@@ -242,7 +240,3 @@ DOMAIN,zxid-m.mobileservice.cn
 IP-CIDR,103.41.167.237/32
 IP-CIDR,118.89.204.198/32
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
-# 字节跳动
-DOMAIN,ad.zijieapi.com
-DOMAIN-KEYWORD,asiad.byteactivity
-DOMAIN-KEYWORD,-ad-sign.byteimg.com
