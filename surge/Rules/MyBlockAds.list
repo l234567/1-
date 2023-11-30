@@ -174,9 +174,6 @@ IP-CIDR,47.110.187.87/32,no-resolve
 # 腾讯QQ
 DOMAIN-SUFFIX,ipv4.gdt.qq.com
 DOMAIN-SUFFIX,qq-web-other.cdn-go.cn
-DOMAIN-SUFFIX,cmshow.gtimg.cn
-DOMAIN-SUFFIX,cdnimg.3g.qq.com
-DOMAIN-SUFFIX,sqdd.myapp.com
 # ======= W ======= #
 # 网易云音乐
 DOMAIN,httpdns.music.163.com,extended-matching
