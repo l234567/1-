@@ -37,14 +37,9 @@ DOMAIN-SUFFIX,pos.baidu.com
 # 百度地图
 DOMAIN,afd.baidu.com
 DOMAIN,afdconf.baidu.com
-DOMAIN,httpdns.baidubce.com,extended-matching
 DOMAIN,lc.map.baidu.com
 # 百度贴吧
 IP-CIDR,180.76.76.200/32,no-resolve
-# 哔哩哔哩
-#DOMAIN,mall.bilibili.com
-#DOMAIN,passport.bilibili.com
-
 # ======= C ======= #
 # 彩云天气
 DOMAIN,ad.cyapi.cn
@@ -78,7 +73,6 @@ DOMAIN,mbads.paas.cmbchina.com
 DOMAIN,ad.zijieapi.com
 DOMAIN,i.snssdk.com
 DOMAIN,is.snssdk.com
-DOMAIN,mi.gdt.qq.com
 DOMAIN-SUFFIX,open.e.kuaishou.com
 DOMAIN-SUFFIX, miaozhen.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
@@ -94,6 +88,9 @@ DOMAIN-KEYWORD,video-cn.snssdk.com
 # ======= H ======= #
 # 海尔智家
 DOMAIN-SUFFIX,ehaier.com
+# httpdns
+DOMAIN-KEYWORD,httpdns.
+DOMAIN-KEYWORD,httpdns-
 
 # ======= J ======= #
 # 建设银行
@@ -154,7 +151,8 @@ DOMAIN,sin3-ib.adnxs.com
 DOMAIN,api.zuihuimai.com
 # 数字联盟
 DOMAIN-SUFFIX,shuzilm.cn
-
+# Speedtest
+DOMAIN-SUFFIX,ad.gt
 # ======= T ======= #
 # 腾讯
 DOMAIN,adsmind.gdtimg.com
