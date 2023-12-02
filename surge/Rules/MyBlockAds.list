@@ -114,6 +114,8 @@ DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,statics.woozooo.com
 #联通
 DOMAIN-SUFFIX,m1.ad.10010.com
+#掌上公交
+DOMAIN,quanguo.mygolbs.com
 
 # ======= M ======= #
 # 芒果TV
