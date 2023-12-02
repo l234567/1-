@@ -116,6 +116,8 @@ DOMAIN,statics.woozooo.com
 DOMAIN-SUFFIX,m1.ad.10010.com
 #掌上公交
 DOMAIN,quanguo.mygolbs.com
+#携程旅行
+DOMAIN-SUFFIX,m.ctrip.com
 
 # ======= M ======= #
 # 芒果TV
