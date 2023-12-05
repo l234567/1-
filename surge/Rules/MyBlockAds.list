@@ -178,8 +178,6 @@ DOMAIN-SUFFIX,ipv4.gdt.qq.com
 DOMAIN-SUFFIX,qq-web-other.cdn-go.cn
 # ======= W ======= #
 # 网易云音乐
-DOMAIN,httpdns.music.163.com,extended-matching
-DOMAIN,httpdns.n.netease.com,extended-matching
 DOMAIN,iadmat.nosdn.127.net
 DOMAIN,iadmatapk.nosdn.127.net
 DOMAIN,iadmusicmat.music.126.net
@@ -207,7 +205,7 @@ DOMAIN,amdc.m.youku.com
 DOMAIN,api.sm.cn
 DOMAIN,apiv4-iyes.youku.com
 DOMAIN,baichuan-sdk.alicdn.com
-DOMAIN,httpdns.alicdn.com,extended-matching
+DOMAIN,cad.youku.com
 DOMAIN,huichuan-mc.sm.cn
 DOMAIN,huichuan.sm.cn
 DOMAIN,iyes.youku.com
