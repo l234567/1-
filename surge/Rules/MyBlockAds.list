@@ -73,7 +73,7 @@ DOMAIN,mbads.paas.cmbchina.com
 DOMAIN,ad.zijieapi.com
 DOMAIN,i.snssdk.com
 DOMAIN,is.snssdk.com
-DOMAIN-SUFFIX,open.e.kuaishou.com
+DOMAIN,open.e.kuaishou.com
 DOMAIN-SUFFIX, miaozhen.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-tos.pstatp.com
@@ -89,6 +89,7 @@ DOMAIN-KEYWORD,video-cn.snssdk.com
 # 海尔智家
 DOMAIN-SUFFIX,ehaier.com
 # httpdns
+DOMAIN,hdns.ksyun.com
 DOMAIN-KEYWORD,httpdns.
 DOMAIN-KEYWORD,httpdns-
 
@@ -99,7 +100,8 @@ DOMAIN,adv.ccb.com
 DOMAIN,dns.jd.com
 IP-CIDR,101.124.19.122/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
-
+# JavDB
+DOMAIN,api.liquidlink.cn
 # ======= K ======= #
 # 酷我音乐
 DOMAIN,ad.tencentmusic.com
@@ -139,6 +141,7 @@ DOMAIN,al-log.d.meituan.net
 DOMAIN,babel-statistics-android.d.meituan.net
 DOMAIN,maplocatesdksnapshot.d.meituan.net
 DOMAIN,metrics-picture.d.meituan.net
+DOMAIN,open.kuaishouzt.com
 DOMAIN,route-stats.d.meituan.net
 # 美颜相机
 DOMAIN,aaid.uyunad.com
