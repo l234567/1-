@@ -177,7 +177,10 @@ DOMAIN-KEYWORD,trace.video.qq.com
 IP-CIDR,47.110.187.87/32,no-resolve
 # 腾讯QQ
 DOMAIN-SUFFIX,ipv4.gdt.qq.com
-DOMAIN-SUFFIX,qq-web-other.cdn-go.cn
+DOMAIN-SUFFIX,mqqstr.beacon.qq.com
+DOMAIN,vv.video.qq.com
+DOMAIN,yun-hl.3g.qq.com
+DOMAIN,up-hl.3g.qq.com
 # ======= W ======= #
 # 网易云音乐
 DOMAIN,iadmat.nosdn.127.net
@@ -196,6 +199,7 @@ DOMAIN,tx-dm.p2p.huya.com
 DOMAIN,v-huya-img2.msstatic.com
 DOMAIN,statwup.huya.com
 DOMAIN,cdnws.api.huya.com
+DOMAIN,al-dm.p2p.huya.com
 #bilibili
 DOMAIN,dataflow.biliapi.com
 # ======= X ======= #
