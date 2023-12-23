@@ -195,6 +195,7 @@ DOMAIN-SUFFIX,cdn.wup.huya.com
 DOMAIN,tx-dm.p2p.huya.com
 DOMAIN,v-huya-img2.msstatic.com
 DOMAIN,statwup.huya.com
+DOMAIN,cdnws.api.huya.com
 #bilibili
 DOMAIN,dataflow.biliapi.com
 # ======= X ======= #
