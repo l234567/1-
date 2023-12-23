@@ -195,7 +195,7 @@ DOMAIN,ipv6.music.163.com
 DOMAIN-SUFFIX,biz.weibo.com
 #虎牙
 DOMAIN-SUFFIX,crash-dau.huya.com
-DOMAIN-SUFFIX,cdn.wup.huya.com
+DOMAIN,cdn.wup.huya.com
 DOMAIN,tx-dm.p2p.huya.com
 DOMAIN,v-huya-img2.msstatic.com
 DOMAIN,statwup.huya.com
