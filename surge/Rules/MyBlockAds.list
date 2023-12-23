@@ -196,8 +196,10 @@ DOMAIN-SUFFIX,biz.weibo.com
 #虎牙
 DOMAIN,tx-dm.p2p.huya.com
 DOMAIN,v-huya-img2.msstatic.com
-#DOMAIN,statwup.huya.com
+DOMAIN,statwup.huya.com
 DOMAIN-SUFFIX,p2p.huya.com
+DOMAIN-SUFFIX,business.msstatic.com
+
 
 # ======= X ======= #
 # 小米
