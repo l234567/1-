@@ -199,8 +199,7 @@ DOMAIN,tx-dm.p2p.huya.com
 DOMAIN,v-huya-img2.msstatic.com
 DOMAIN,statwup.huya.com
 DOMAIN-SUFFIX,p2p.huya.com
-#bilibili
-DOMAIN,dataflow.biliapi.com
+
 # ======= X ======= #
 # 小米
 DOMAIN,sdkconfig.ad.xiaomi.com
