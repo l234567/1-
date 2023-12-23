@@ -194,13 +194,7 @@ DOMAIN,ipv6.music.163.com
 # 微博 开屏广告
 DOMAIN-SUFFIX,biz.weibo.com
 #虎牙
-DOMAIN-KEYWORD,tx-dm.p2p.huya.com
-DOMAIN-KEYWORD,msstatic.com
-DOMAIN,statwup.huya.com
 DOMAIN-KEYWORD,p2p.huya.com
-DOMAIN-SUFFIX,business.msstatic.com
-
-
 # ======= X ======= #
 # 小米
 DOMAIN,sdkconfig.ad.xiaomi.com
